@@ -10,33 +10,16 @@ This repository contains resources for learning Dart programming, covering begin
 **Introduction to Dart**
 
 - What is Dart?
-  Imagine a friendly robot helping you build amazing things on the web and mobile! That's what Dart is like. It's a programming language created by Google, designed to be easy to learn and powerful for building apps. Here's the gist:
-
-Like Lego blocks: Dart code is made of blocks called lines of code, which you put together to create programs.
-
-Friendly commands: Instead of cryptic words, Dart uses simple instructions like print and if to tell your program what to do.
-
-Fast and efficient: Dart programs run smoothly without slowing down your devices.
-
-One code fits all: Write your app once in Dart, and it works on almost any device - phones, tablets, computers, you name it!
-
+ 
 
 - History and evolution of Dart
 
   
-Dart wasn't born yesterday. It was released in 2011 by Google with a mission to make app development enjoyable and accessible. Since then, it's grown and evolved with new features and tools to make your coding life easier. Think of it as a helpful friend constantly getting better at helping you build awesome things!
-
-
 - Setting up Dart development environment
   
-Getting started with Dart is a breeze! There are two main ways:
+*Online Playground: Visit https://dartpad.dev/: https://dartpad.dev/*
 
-Online Playground: Try Dart instantly in your web browser! Visit https://dartpad.dev/: https://dartpad.dev/ and start playing with code right away. It's like a virtual sandbox where you can experiment without installing anything.
-
-
-Download Dart SDK: Want more power and flexibility? Download the Dart SDK (https://dart.dev/get-dart: https://dart.dev/get-dart/) for your computer. It's like getting a bigger toolbox with more features to create amazing apps.
-
-
+*Download Dart SDK: Download the Dart SDK (https://dart.dev/get-dart: https://dart.dev/get-dart/)*
 
 **Basic Syntax and Data Types**
 
