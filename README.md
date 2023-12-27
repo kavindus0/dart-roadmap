@@ -6,19 +6,27 @@
 This repository contains resources for learning Dart programming, covering beginner, intermediate, and advanced levels.
 
 ## Beginner Level:
+
 **Introduction to Dart**
+
 - What is Dart?
 - History and evolution of Dart
 - Setting up Dart development environment
-- Basic Syntax and Data Types
+
+**Basic Syntax and Data Types**
+
 - Variables and constants
 - Data types (int, double, String, bool)
 - Operators and expressions
-- Control Flow and Functions
+
+  **Control Flow and Functions**
+  
 - Conditional statements (if-else, switch)
 - Loops (for, while)
 - Functions and parameters
-- Collections and Iterables
+
+ **Collections and Iterables**
+ 
 - Lists, sets, and maps
 - Iterating through collections
 - List manipulation methods
