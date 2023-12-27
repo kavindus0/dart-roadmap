@@ -19,7 +19,7 @@ This repository contains resources for learning Dart programming, covering begin
 - Data types (int, double, String, bool)
 - Operators and expressions
 
-  **Control Flow and Functions**
+**Control Flow and Functions**
   
 - Conditional statements (if-else, switch)
 - Loops (for, while)
