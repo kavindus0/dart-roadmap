@@ -5,9 +5,8 @@
 
 This repository contains resources for learning Dart programming, covering beginner, intermediate, and advanced levels.
 
-Certainly! Here's a detailed Dart roadmap from beginner to advanced level:
 Beginner Level:
-- Introduction to Dart
+**Introduction to Dart**
 - What is Dart?
 - History and evolution of Dart
 - Setting up Dart development environment
