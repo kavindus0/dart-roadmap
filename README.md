@@ -24,6 +24,25 @@ This repository contains resources for learning Dart programming, covering begin
 **Basic Syntax and Data Types**
 
 - Variables and constants
+
+void main() {
+  // Declaring a variable
+  String name;
+  
+  // Assigning a value to the variable
+  name = "John Doe";
+  
+  // Printing the value of the variable
+  print(name); // Output: John Doe
+  
+  // Reassigning a new value to the variable
+  name = "Jane Smith";
+  
+  // Printing the updated value of the variable
+  print(name); // Output: Jane Smith
+}
+
+  
 - Data types (int, double, String, bool)
 - Operators and expressions
 
