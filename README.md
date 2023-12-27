@@ -6,7 +6,7 @@
 This repository contains resources for learning Dart programming, covering beginner, intermediate, and advanced levels.
 
 ## Beginner Level:
-**Introduction to Dart**
+- **Introduction to Dart**
 - What is Dart?
 - History and evolution of Dart
 - Setting up Dart development environment
@@ -22,10 +22,10 @@ This repository contains resources for learning Dart programming, covering begin
 - Lists, sets, and maps
 - Iterating through collections
 - List manipulation methods
-- Object-Oriented Programming
--- Classes and objects
--- Inheritance and polymorphism
--- Constructors and methods
+- **Object-Oriented Programming**
+-  Classes and objects
+-   Inheritance and polymorphism
+-   Constructors and methods
 
 
 Certainly! Here's a detailed roadmap for learning Dart from beginner to advanced level:
