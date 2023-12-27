@@ -25,6 +25,11 @@ This repository contains resources for learning Dart programming, covering begin
 
 - Variables and constants
 
+**Variables:**
+
+In Dart, a variable is a storage location identified by a unique name. It holds a value that can be changed during the program's execution.
+
+```dart
 void main() {
   // Declaring a variable
   String name;
@@ -41,6 +46,30 @@ void main() {
   // Printing the updated value of the variable
   print(name); // Output: Jane Smith
 }
+```
+
+In this example, we declare a variable `name` of type `String` and assign it a value "John Doe". Later, we reassign a new value "Jane Smith" to the same variable.
+
+**Constants:**
+
+In Dart, a constant is a variable whose value cannot be changed once it is assigned. Constants are declared using the `final` or `const` keyword.
+
+```dart
+void main() {
+  // Declaring a constant using the 'final' keyword
+  final int age = 30;
+  
+  // Declaring a constant using the 'const' keyword
+  const double piValue = 3.14;
+  
+  // Printing the values of the constants
+  print(age); // Output: 30
+  print(piValue); // Output: 3.14
+
+//In this example, we declare a constant `age` using the `final` keyword and a constant `piValue` using the `const` keyword. Once assigned, the values of these constants cannot be changed. 
+}
+```
+
 
   
 - Data types (int, double, String, bool)
