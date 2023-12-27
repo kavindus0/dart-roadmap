@@ -1,11 +1,17 @@
 #Beginner Level:
 
 Introduction to Dart: Variables, data types, and basic syntax.
+
 Control Flow: If-else statements, loops, and switch cases.
+
 Functions: Declaring functions, parameters, and return types.
+
 Object-Oriented Programming: Classes, objects, inheritance, and polymorphism.
+
 Collections: Lists, maps, and sets.
+
 Exception Handling: Try, catch, and throw statements.
+
 File Handling: Reading from and writing to files.
 
 #Intermediate Level:
