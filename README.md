@@ -25,7 +25,7 @@ This repository contains resources for learning Dart programming, covering begin
 - Loops (for, while)
 - Functions and parameters
 
- **Collections and Iterables**
+**Collections and Iterables**
  
 - Lists, sets, and maps
 - Iterating through collections
