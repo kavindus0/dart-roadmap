@@ -24,9 +24,9 @@ Beginner Level:
 - Iterating through collections
 - List manipulation methods
 - Object-Oriented Programming
-- Classes and objects
-- Inheritance and polymorphism
-- Constructors and methods
+   - Classes and objects
+   - Inheritance and polymorphism
+   - Constructors and methods
 
 
 Certainly! Here's a detailed roadmap for learning Dart from beginner to advanced level:
