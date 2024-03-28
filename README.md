@@ -10,16 +10,14 @@ This repository contains resources for learning Dart programming, covering begin
 **Introduction to Dart**
 
 - What is Dart?
- 
 
 - History and evolution of Dart
-
   
 - Setting up Dart development environment
   
-*Online Playground: Visit https://dartpad.dev/: https://dartpad.dev/*
+* Online Playground: Visit https://dartpad.dev/: https://dartpad.dev/*
 
-*Download Dart SDK: Download the Dart SDK (https://dart.dev/get-dart: https://dart.dev/get-dart/)*
+* Download Dart SDK: Download the Dart SDK (https://dart.dev/get-dart: https://dart.dev/get-dart/)*
 
 **Basic Syntax and Data Types**
 
