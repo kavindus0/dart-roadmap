@@ -1,7 +1,7 @@
 # dart-roadmap
 "Comprehensive roadmap for learning Dart programming language, including key concepts, best practices, and project-based exercises. Perfect for beginners and experienced developers looking to master Dart."
 
-# Dart Learning Path
+# Dart Learning Paths
 
 This repository contains resources for learning Dart programming, covering beginner, intermediate, and advanced levels.
 
